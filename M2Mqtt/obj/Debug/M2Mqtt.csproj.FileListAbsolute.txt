@@ -1,0 +1,5 @@
+C:\Users\jac\Desktop\C#\M2Mqtt\bin\Debug\M2Mqtt.dll
+C:\Users\jac\Desktop\C#\M2Mqtt\bin\Debug\M2Mqtt.pdb
+C:\Users\jac\Desktop\C#\M2Mqtt\obj\Debug\M2Mqtt.csprojResolveAssemblyReference.cache
+C:\Users\jac\Desktop\C#\M2Mqtt\obj\Debug\M2Mqtt.dll
+C:\Users\jac\Desktop\C#\M2Mqtt\obj\Debug\M2Mqtt.pdb
